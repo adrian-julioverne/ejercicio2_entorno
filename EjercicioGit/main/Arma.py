@@ -1,3 +1,4 @@
+# cambios
 from abc import abstractmethod
 from abc import ABCMeta
 
@@ -8,3 +9,4 @@ class Arma(metaclass=ABCMeta):
     
     def grito(self):
         pass
+
