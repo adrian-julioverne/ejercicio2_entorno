@@ -1,0 +1,4 @@
+- Subir a la rama main de GitHub los archivos para desarrollar a MazingerZ con el Planeador.
+- Crear en el repositorio local una rama llamada laboratorio (origin/laboratorio, ya que dicha rama va a existir en el remoto), y añadir todo el armamento del Mazinger.
+- Modificar el programa principal "ModuloBasico.py" para activar todo el armamento. Fijarse en cómo está programado el Planeador y hacer lo mismo con el resto de las clases.
+
